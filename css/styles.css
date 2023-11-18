@@ -289,7 +289,7 @@ border-bottom: 1px solid #E7E9FC;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px
+   
 }
 
 .portfolio-main-title {
@@ -309,6 +309,7 @@ border-bottom: 1px solid #E7E9FC;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
     }
 
 .portfolio-text {
@@ -349,6 +350,6 @@ border-bottom: 1px solid #E7E9FC;
     margin-bottom: 16px;
 }
 
-.footer-container {
-    
+.logo-footer-main {
+    margin-bottom: 16px;
 }
